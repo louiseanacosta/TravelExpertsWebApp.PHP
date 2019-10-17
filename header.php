@@ -20,7 +20,7 @@
     <!--     -->
     <!-- CSS -->
     <!--     -->
-    <!-- this include the bootstrap framework which allows the modal--> 
+    <!-- this include the bootstrap framework which allows the modal-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Kanit|Montserrat|Roboto+Condensed|Anton" rel="stylesheet">
     <link rel="stylesheet" href="../modern-normalize.css">

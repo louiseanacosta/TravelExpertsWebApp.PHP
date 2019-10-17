@@ -10,8 +10,8 @@
 
 <div class="menu2">
     <ul style="list-style-type:disc">
-        <li class="padBottom"><a href="newagent.php"><?php echo "View " . $list . " List"?></a></li>
-        <li class="padBottom"><a href="newagent.php"><?php echo "Add " . $list?></a></li>
-        <li class="padBottom"><a href="newagent.php"><?php echo "Update " . $list . " Information"?></a></li>
+        <li class="padBottom"><a href="newagent.php"><?php echo "View " . $list . " List" ?></a></li>
+        <li class="padBottom"><a href="newagent.php"><?php echo "Add " . $list ?></a></li>
+        <li class="padBottom"><a href="newagent.php"><?php echo "Update " . $list . " Information" ?></a></li>
     </ul>
 </div>

@@ -9,7 +9,7 @@
 ?>
 
 <nav>
-    <img class="logo" src="../img/logo.jpg" alt="logo"> 
+    <img class="logo" src="../img/logo.jpg" alt="logo">
     <ul class="menu">
         <li class="floatLeft"><a href="../index.php">HOME</a></li>
         <li class="floatLeft"><a href="newagent.php">AGENTS</a></li>
