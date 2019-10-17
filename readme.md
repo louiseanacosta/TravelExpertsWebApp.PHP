@@ -1,5 +1,5 @@
 # Travel Experts Application
-- First web application I built! SAIT Team project had to select one from to group as a starting project where few functionality will be added by other group members for a web proposal presentation. 
+- First web application I built! SAIT Team project had to select one from the group as a starting project where few functionality will be added by other group members for a web proposal presentation. 
 
 A Web Application for users to view and order travel packages.
 Data stored on the database can also be administered using this application where admin users will be able to view and modify the data.
