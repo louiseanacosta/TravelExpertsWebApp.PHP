@@ -18,7 +18,7 @@ Adnan - Contact Page - pull employee info to display on contact page, bookings o
 ## Before using
 Application must connect to Travel Experts Database in MySQL. Run the sql script included (travelexperts.sql)
 
-## Take A Peak
+## Take A Peek
 <img src="gif/travelexperts_overview.gif" width="100%" alt="view"></img>
 
 ## Search
