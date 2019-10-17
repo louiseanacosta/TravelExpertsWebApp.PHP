@@ -12,7 +12,7 @@ Date: Feb 19, 2019
 NOTE: The group decided to use Louise's code after the individual assignment to create their own website. 
 Everyone in the group each added their part to the current code she already had.
 
-Guido - LogIn Functionality
+Guido - LogIn Functionality <br>
 Adnan - Contact Page - pull employee info to display on contact page, bookings on admin page
 
 ## Before using
